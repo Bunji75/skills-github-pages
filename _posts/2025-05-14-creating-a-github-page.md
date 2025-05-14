@@ -1,5 +1,5 @@
 ---
-title: "Creating a Github Page"
+title: "Creating-a-Github-Page"
 date: 2025-05-14
 ---
 
