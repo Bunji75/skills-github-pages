@@ -1,3 +1,6 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: Bunji75 Github Pages
+tagline: Just testing out making a github pages site
